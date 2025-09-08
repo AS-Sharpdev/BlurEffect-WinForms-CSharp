@@ -1,6 +1,12 @@
-BlurEffect (C# WinForms)
+#  BlurEffect (C# WinForms)
 
 A simple Windows Forms project that demonstrates how to enable the Windows Blur Behind effect (Aero blur / Acrylic blur) on your form using the Win32 API.
+
+---
+
+## 📺 YouTube Tutorial
+👉 Watch the full step-by-step tutorial on YouTube:  
+[![Watch the video](https://img.shields.io/badge/YouTube-Watch%20Now-red?logo=youtube&style=for-the-badge)](https://youtu.be/q09g8dlKoGM)
 
 
 (Replace with your actual screenshot of the blurred form)
@@ -38,9 +44,6 @@ The form background color is set to black so the blur is clearly visible.
 ▶️ Getting Started
 
 Clone this repository:
-
-git clone https://github.com/yourusername/BlurEffect.git
-
 
 Open the project in Visual Studio.
 
@@ -122,14 +125,6 @@ Value	Name	Effect
 
 👉 Try replacing 3 with 4 in the helper method to test Acrylic blur instead of normal blur.
 
-📸 Demo
-
-(Add a GIF or screenshot of your app running with the blur effect here)
-
-📺 YouTube Tutorial
-
-I’ve also created a video tutorial explaining this project step by step:
-👉 Watch on YouTube
 
 🤝 Contributing
 
