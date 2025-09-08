@@ -102,6 +102,7 @@ public static class BlurHelper
 }
 
 
+
 Then, in your form:
 
 public Form1()
@@ -109,6 +110,7 @@ public Form1()
     InitializeComponent();
     this.Load += (s, e) => BlurHelper.EnableBlur(this, 3); // 3 = Blur Behind
 }
+
 
 🎨 AccentState Values
 
