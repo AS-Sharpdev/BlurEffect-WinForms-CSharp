@@ -9,8 +9,6 @@ A simple Windows Forms project that demonstrates how to enable the Windows Blur 
 [![Watch the video](https://img.shields.io/badge/YouTube-Watch%20Now-red?logo=youtube&style=for-the-badge)](https://youtu.be/q09g8dlKoGM)
 
 
-(Replace with your actual screenshot of the blurred form)
-
 ✨ Features
 
 Apply Windows 10/11 blur effect to any WinForms application.
